@@ -1,7 +1,7 @@
 # ZSimpleSyringePump
 ## v0.0.1
-===
-![ScreenShot](./Screenshot.png)
+
+![ScreenShot](./Screenshot.PNG)
 
 A simple GUI for NewEra (or other OEM pump, e.g., Braintree, Aladdin) syringe pump.
 
