@@ -11,5 +11,4 @@ This program is based on MATLAB App Designer. MATLAB 2016a or later version is r
 ### Usage
 - Connect pump to computer with RS-232 (RS-232 to USB Converter might be preferable)
 - Set the BitRate to 19200 on the pump
-- Set the pump address to 0
 - Double click to start the program
